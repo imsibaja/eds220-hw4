@@ -45,9 +45,9 @@ Galaz García, Carmen. Assignment4 – EDS 220 - Working with Environmental Data
 |   .gitignore
 │
 └───data
-|   │   California_Fire_Perimeters_4280901625349411772.geojson
 |   |   landsat8-2018-01-26-sb-simplified.nc
 |   |   thomas_2017.geojson
+|       California_Fire_Perimeters_4280901625349411772.geojson available from link above
 |
 └───images
     |   thomas-fire-ojai.jpeg
