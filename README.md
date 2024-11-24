@@ -5,10 +5,10 @@ Image credits: [spookysnoopy via Imgur](https://imgur.com/gallery/thomas-fire-oj
 
 
 ## About
-This repository contains notebooks `hwk4-task2-fire-perimeter-MORRIS-SIBAJA.ipynb` and 'hwk4-task2-false-color-MORRIS-SIBAJA.ipynb' whose goal are to analyze the fire scarring of the 2017 Thomas Fire in Santa Barbara and Ventura Counties.
+This repository contains notebooks `hwk4-task2-fire-perimeter-MORRIS-SIBAJA.ipynb` and `hwk4-task2-false-color-MORRIS-SIBAJA.ipynb` whose goal are to analyze the fire scarring of the 2017 Thomas Fire in Santa Barbara and Ventura Counties.
 
 After examining geospatial and tabular datasets, we created a border of the Thomas Fire boundary and overlayed it over a false color map of the fire scarring.
-This completed map is located at the bottom of the 'hwk4-task2-false-color-MORRIS-SIBAJA.ipynb' notebook.
+This completed map is located at the bottom of the `hwk4-task2-false-color-MORRIS-SIBAJA.ipynb` notebook.
 
 ## Highlights
 
@@ -19,7 +19,7 @@ This completed map is located at the bottom of the 'hwk4-task2-false-color-MORRI
 
 ## Data
 
-The data for this analysis is housed in this repository.
+The data for this analysis is housed in this repository, except for California_Fire_Perimeters_4280901625349411772.geojson, which can be found [here](https://gis.data.cnra.ca.gov/api/download/v1/items/e3802d2abf8741a187e73a9db49d68fe/geojson?layers=0)
 
 ## References
 
